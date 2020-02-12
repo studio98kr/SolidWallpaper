@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "471497721728",
+    "firebase_url": "https://wallpaper-apps-71674.firebaseio.com",
+    "project_id": "wallpaper-apps-71674",
+    "storage_bucket": "wallpaper-apps-71674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471497721728:android:9197e126b0384a8c8b6365",
+        "android_client_info": {
+          "package_name": "com.kundanm881.solidwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471497721728-r776n0pthumjogb6i2l2f3cc113gig4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kundanm881.solidwallpaper",
+            "certificate_hash": "c6ed193de4e0fb50afb638df9f0c039e002d6cf1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXG9mFOnYvTgu7yI99ILenKVQvt95hZes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471497721728-877q0qifp0q8lre2vjh02n4nsgmne1jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
